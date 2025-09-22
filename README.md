@@ -61,7 +61,7 @@ My hobbies: 🎮 I enjoy playing video games, 🏋️‍♂️ working out at th
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
   <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Panku13&theme=solarized_dark&card_width=830)](https://git.io/streak-stats">
+  <!--<img src="https://streak-stats.demolab.com?user=Panku13&theme=solarized_dark&card_width=830)](https://git.io/streak-stats">-->
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Panku13&theme=solarized_dark">
   <!--<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Panku13&theme=solarized_dark">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Panku13&theme=solarized_dark"> -->
